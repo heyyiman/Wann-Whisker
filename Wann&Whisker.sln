@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wann&Whisker", "Wann&Whisker\Wann&Whisker.csproj", "{903E1851-37C1-42B1-9943-8F35FD4CD87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903E1851-37C1-42B1-9943-8F35FD4CD87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903E1851-37C1-42B1-9943-8F35FD4CD87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903E1851-37C1-42B1-9943-8F35FD4CD87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903E1851-37C1-42B1-9943-8F35FD4CD87E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF88826-2B39-42D0-A0CA-A116C6091B4C}
+	EndGlobalSection
+EndGlobal
